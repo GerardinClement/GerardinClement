@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently student at 42 Lyon Auvergne Rhône Alpes school <br>
+I am currently student at 42 Lyon Auvergne Rhône Alpes school <br>
 before that I learned web development with OpenClassroom <br>
-I’m currently learning about C and C++
+I am currently learning about C and C++
 
 
 # 💻 Tech Stack:
