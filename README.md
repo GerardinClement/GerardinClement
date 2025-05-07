@@ -1,14 +1,24 @@
-# 💫 About Me:
-As a student at 42 Lyon Auvergne Rhône Alpes, I previously acquired web development skills through OpenClassroom. Currently, I am focusing on learning C and C++ 
+👋 Hi, I’m Clément Gerardin — a passionate backend developer with a strong foundation in Python and web technologies.
+
+🎓 I started coding 4 years ago as a self-taught developer, then completed the Web Developer diploma at OpenClassrooms, followed by the core curriculum at 42.
+
+💼 I completed a 6-month internship as an Odoo developer at Krafter, where I worked on ERP solutions for various clients, customizing business processes and building efficient backend features.
+
+🚀 I'm currently building a music-centered social network app using Flutter (frontend) and Django (backend). This personal project lets me explore full-stack development, clean architecture, and modern mobile UX.
+
+💡 I'm particularly interested in backend development, APIs, and scalable systems. I love learning new tools and diving into real-world problems.
+
+🔧 Tech I use / like: Python · Django · Flutter · REST APIs · Git · PostgreSQL · JavaScript · Docker · Linux · C (42 legacy projects)
+
+📍 Based in Lyon, France
+📫 Let's connect! I'm always open to collaboration or discussing interesting projects.
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=gclement42&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gclement42&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gclement42&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
