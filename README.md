@@ -1,4 +1,4 @@
-👋 Hi, I’m Clément Gerardin — a passionate backend developer with a strong foundation in Python and web technologies.
+👋 Hi, I’m Clément Gerardin — a passionate web developer with a strong foundation in web technologies.
 
 🎓 I started coding 4 years ago as a self-taught developer, then completed the Web Developer diploma at OpenClassrooms, followed by the core curriculum at 42.
 
@@ -6,7 +6,7 @@
 
 🚀 I'm currently building a music-centered social network app using Flutter (frontend) and Django (backend). This personal project lets me explore full-stack development, clean architecture, and modern mobile UX.
 
-💡 I'm particularly interested in backend development, APIs, and scalable systems. I love learning new tools and diving into real-world problems.
+💡 I'm particularly interested in web and mobile development, APIs, and scalable systems. I love learning new tools and diving into real-world problems.
 
 🔧 Tech I use / like: Python · Django · Flutter · REST APIs · Git · PostgreSQL · JavaScript · Docker · Linux · C (42 legacy projects)
 
